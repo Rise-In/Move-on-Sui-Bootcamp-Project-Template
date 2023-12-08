@@ -20,5 +20,5 @@ Developers can create NFTs having the following information:
 - Only the owner of the contract can delete the cards.
 
 ## Technologies 
-- For the development of the smart contract `Sui Move` programming language is used.
+- For the development of the smart contract `Move on Sui` programming language is used.
 - For the blockchain `Sui` has been used.
